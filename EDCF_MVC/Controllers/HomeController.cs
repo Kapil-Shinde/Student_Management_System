@@ -98,7 +98,7 @@ namespace EDCF_MVC.Controllers
 
         public IActionResult Edit(int id)
         {
-            ViewBag.Data = HttpContext.Session.GetString("MyKey");
+            //ViewBag.Data = HttpContext.Session.GetString("MyKey");
             var student = stundentDbContext.Students.FirstOrDefault(s => s.ID == id);
             if (student == null)
             {

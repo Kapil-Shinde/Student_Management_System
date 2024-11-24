@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EDCF_MVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fdbe0bacec64f09bdcc8fef93f31a86959bd45ad")]
 [assembly: System.Reflection.AssemblyProductAttribute("EDCF_MVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EDCF_MVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
