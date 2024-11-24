@@ -1,0 +1,30 @@
+﻿@model EDCF_MVC.Models.Student
+
+@{
+    ViewData["Title"] = "Delete Student";
+    Layout = "~/Views/Shared/Effect.cshtml";
+}
+
+<h2>Delete Student</h2>
+
+<div class="alert alert-danger">
+    <p>Are you sure you want to delete this student?</p>
+</div>
+
+<table class="table">
+    <tr>
+        <th>Name</th>
+        <td>@Model.Name</td>
+    </tr>
+    <tr>
+        <th>Age</th>
+        <td>@Model.Age</td>
+    </tr>
+</table>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" name="id" value="@Model.ID" />
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>
+<h2>@ViewBag.Data</h2>

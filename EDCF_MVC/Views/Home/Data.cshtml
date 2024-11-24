@@ -1,0 +1,38 @@
+﻿@model IEnumerable<Student>
+
+@{
+    ViewData["Title"] = "Data";
+    Layout = "~/Views/Shared/Effect.cshtml";
+}
+<h1>Student List</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Age</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var student in Model)
+        {
+            <tr>
+                <td>@student.ID</td>
+                <td>@student.Name</td>
+                <td>@student.Age</td>
+                <td>
+
+                    <a asp-action="Edit" asp-route-id="@student.ID">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@student.ID">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@student.ID">Delete</a>
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Create" class="btn btn-primary mb-3">Add Student</a>
+
+

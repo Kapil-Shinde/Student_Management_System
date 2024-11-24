@@ -1,0 +1,346 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kapyi\\source\\repos\\EDCF_MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B28262DE-DCDB-493B-B94F-92A79848EFB0}|EDCF_MVC\\EDCF_MVC.csproj|c:\\users\\kapyi\\source\\repos\\edcf_mvc\\edcf_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B28262DE-DCDB-493B-B94F-92A79848EFB0}|EDCF_MVC\\EDCF_MVC.csproj|solutionrelative:edcf_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B28262DE-DCDB-493B-B94F-92A79848EFB0}|EDCF_MVC\\EDCF_MVC.csproj|c:\\users\\kapyi\\source\\repos\\edcf_mvc\\edcf_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B28262DE-DCDB-493B-B94F-92A79848EFB0}|EDCF_MVC\\EDCF_MVC.csproj|solutionrelative:edcf_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B28262DE-DCDB-493B-B94F-92A79848EFB0}|EDCF_MVC\\EDCF_MVC.csproj|c:\\users\\kapyi\\source\\repos\\edcf_mvc\\edcf_mvc\\views\\home\\authenticate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B28262DE-DCDB-493B-B94F-92A79848EFB0}|EDCF_MVC\\EDCF_MVC.csproj|solutionrelative:edcf_mvc\\views\\home\\authenticate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B28262DE-DCDB-493B-B94F-92A79848EFB0}|EDCF_MVC\\EDCF_MVC.csproj|c:\\users\\kapyi\\source\\repos\\edcf_mvc\\edcf_mvc\\views\\shared\\effect.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B28262DE-DCDB-493B-B94F-92A79848EFB0}|EDCF_MVC\\EDCF_MVC.csproj|solutionrelative:edcf_mvc\\views\\shared\\effect.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B28262DE-DCDB-493B-B94F-92A79848EFB0}|EDCF_MVC\\EDCF_MVC.csproj|c:\\users\\kapyi\\source\\repos\\edcf_mvc\\edcf_mvc\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B28262DE-DCDB-493B-B94F-92A79848EFB0}|EDCF_MVC\\EDCF_MVC.csproj|solutionrelative:edcf_mvc\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B28262DE-DCDB-493B-B94F-92A79848EFB0}|EDCF_MVC\\EDCF_MVC.csproj|c:\\users\\kapyi\\source\\repos\\edcf_mvc\\edcf_mvc\\views\\home\\data.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B28262DE-DCDB-493B-B94F-92A79848EFB0}|EDCF_MVC\\EDCF_MVC.csproj|solutionrelative:edcf_mvc\\views\\home\\data.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B28262DE-DCDB-493B-B94F-92A79848EFB0}|EDCF_MVC\\EDCF_MVC.csproj|c:\\users\\kapyi\\source\\repos\\edcf_mvc\\edcf_mvc\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B28262DE-DCDB-493B-B94F-92A79848EFB0}|EDCF_MVC\\EDCF_MVC.csproj|solutionrelative:edcf_mvc\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B28262DE-DCDB-493B-B94F-92A79848EFB0}|EDCF_MVC\\EDCF_MVC.csproj|c:\\users\\kapyi\\source\\repos\\edcf_mvc\\edcf_mvc\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B28262DE-DCDB-493B-B94F-92A79848EFB0}|EDCF_MVC\\EDCF_MVC.csproj|solutionrelative:edcf_mvc\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B28262DE-DCDB-493B-B94F-92A79848EFB0}|EDCF_MVC\\EDCF_MVC.csproj|c:\\users\\kapyi\\source\\repos\\edcf_mvc\\edcf_mvc\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B28262DE-DCDB-493B-B94F-92A79848EFB0}|EDCF_MVC\\EDCF_MVC.csproj|solutionrelative:edcf_mvc\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B28262DE-DCDB-493B-B94F-92A79848EFB0}|EDCF_MVC\\EDCF_MVC.csproj|c:\\users\\kapyi\\source\\repos\\edcf_mvc\\edcf_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B28262DE-DCDB-493B-B94F-92A79848EFB0}|EDCF_MVC\\EDCF_MVC.csproj|solutionrelative:edcf_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B28262DE-DCDB-493B-B94F-92A79848EFB0}|EDCF_MVC\\EDCF_MVC.csproj|c:\\users\\kapyi\\source\\repos\\edcf_mvc\\edcf_mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B28262DE-DCDB-493B-B94F-92A79848EFB0}|EDCF_MVC\\EDCF_MVC.csproj|solutionrelative:edcf_mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B28262DE-DCDB-493B-B94F-92A79848EFB0}|EDCF_MVC\\EDCF_MVC.csproj|c:\\users\\kapyi\\source\\repos\\edcf_mvc\\edcf_mvc\\views\\home\\course.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B28262DE-DCDB-493B-B94F-92A79848EFB0}|EDCF_MVC\\EDCF_MVC.csproj|solutionrelative:edcf_mvc\\views\\home\\course.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B28262DE-DCDB-493B-B94F-92A79848EFB0}|EDCF_MVC\\EDCF_MVC.csproj|c:\\users\\kapyi\\source\\repos\\edcf_mvc\\edcf_mvc\\views\\home\\mca.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B28262DE-DCDB-493B-B94F-92A79848EFB0}|EDCF_MVC\\EDCF_MVC.csproj|solutionrelative:edcf_mvc\\views\\home\\mca.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B28262DE-DCDB-493B-B94F-92A79848EFB0}|EDCF_MVC\\EDCF_MVC.csproj|c:\\users\\kapyi\\source\\repos\\edcf_mvc\\edcf_mvc\\views\\home\\bca.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B28262DE-DCDB-493B-B94F-92A79848EFB0}|EDCF_MVC\\EDCF_MVC.csproj|solutionrelative:edcf_mvc\\views\\home\\bca.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B28262DE-DCDB-493B-B94F-92A79848EFB0}|EDCF_MVC\\EDCF_MVC.csproj|c:\\users\\kapyi\\source\\repos\\edcf_mvc\\edcf_mvc\\views\\home\\mba.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B28262DE-DCDB-493B-B94F-92A79848EFB0}|EDCF_MVC\\EDCF_MVC.csproj|solutionrelative:edcf_mvc\\views\\home\\mba.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B28262DE-DCDB-493B-B94F-92A79848EFB0}|EDCF_MVC\\EDCF_MVC.csproj|c:\\users\\kapyi\\source\\repos\\edcf_mvc\\edcf_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B28262DE-DCDB-493B-B94F-92A79848EFB0}|EDCF_MVC\\EDCF_MVC.csproj|solutionrelative:edcf_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B28262DE-DCDB-493B-B94F-92A79848EFB0}|EDCF_MVC\\EDCF_MVC.csproj|c:\\users\\kapyi\\source\\repos\\edcf_mvc\\edcf_mvc\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B28262DE-DCDB-493B-B94F-92A79848EFB0}|EDCF_MVC\\EDCF_MVC.csproj|solutionrelative:edcf_mvc\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B28262DE-DCDB-493B-B94F-92A79848EFB0}|EDCF_MVC\\EDCF_MVC.csproj|c:\\users\\kapyi\\source\\repos\\edcf_mvc\\edcf_mvc\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B28262DE-DCDB-493B-B94F-92A79848EFB0}|EDCF_MVC\\EDCF_MVC.csproj|solutionrelative:edcf_mvc\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B28262DE-DCDB-493B-B94F-92A79848EFB0}|EDCF_MVC\\EDCF_MVC.csproj|c:\\users\\kapyi\\source\\repos\\edcf_mvc\\edcf_mvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B28262DE-DCDB-493B-B94F-92A79848EFB0}|EDCF_MVC\\EDCF_MVC.csproj|solutionrelative:edcf_mvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B28262DE-DCDB-493B-B94F-92A79848EFB0}|EDCF_MVC\\EDCF_MVC.csproj|c:\\users\\kapyi\\source\\repos\\edcf_mvc\\edcf_mvc\\models\\stundentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B28262DE-DCDB-493B-B94F-92A79848EFB0}|EDCF_MVC\\EDCF_MVC.csproj|solutionrelative:edcf_mvc\\models\\stundentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\kapyi\\source\\repos\\EDCF_MVC\\EDCF_MVC\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EDCF_MVC\\Views\\Home\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\kapyi\\source\\repos\\EDCF_MVC\\EDCF_MVC\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "EDCF_MVC\\Views\\Home\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T11:35:42.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kapyi\\source\\repos\\EDCF_MVC\\EDCF_MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "EDCF_MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\kapyi\\source\\repos\\EDCF_MVC\\EDCF_MVC\\appsettings.json",
+              "RelativeToolTip": "EDCF_MVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-17T17:24:31.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Data.cshtml",
+              "DocumentMoniker": "C:\\Users\\kapyi\\source\\repos\\EDCF_MVC\\EDCF_MVC\\Views\\Home\\Data.cshtml",
+              "RelativeDocumentMoniker": "EDCF_MVC\\Views\\Home\\Data.cshtml",
+              "ToolTip": "C:\\Users\\kapyi\\source\\repos\\EDCF_MVC\\EDCF_MVC\\Views\\Home\\Data.cshtml",
+              "RelativeToolTip": "EDCF_MVC\\Views\\Home\\Data.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T06:34:38.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\kapyi\\source\\repos\\EDCF_MVC\\EDCF_MVC\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "EDCF_MVC\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\kapyi\\source\\repos\\EDCF_MVC\\EDCF_MVC\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "EDCF_MVC\\Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T10:50:30.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\kapyi\\source\\repos\\EDCF_MVC\\EDCF_MVC\\Views\\Home\\Delete.cshtml",
+              "RelativeDocumentMoniker": "EDCF_MVC\\Views\\Home\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\kapyi\\source\\repos\\EDCF_MVC\\EDCF_MVC\\Views\\Home\\Delete.cshtml",
+              "RelativeToolTip": "EDCF_MVC\\Views\\Home\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T11:14:40.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Authenticate.cshtml",
+              "DocumentMoniker": "C:\\Users\\kapyi\\source\\repos\\EDCF_MVC\\EDCF_MVC\\Views\\Home\\Authenticate.cshtml",
+              "RelativeDocumentMoniker": "EDCF_MVC\\Views\\Home\\Authenticate.cshtml",
+              "ToolTip": "C:\\Users\\kapyi\\source\\repos\\EDCF_MVC\\EDCF_MVC\\Views\\Home\\Authenticate.cshtml",
+              "RelativeToolTip": "EDCF_MVC\\Views\\Home\\Authenticate.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwwCEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T12:14:22.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Effect.cshtml",
+              "DocumentMoniker": "C:\\Users\\kapyi\\source\\repos\\EDCF_MVC\\EDCF_MVC\\Views\\Shared\\Effect.cshtml",
+              "RelativeDocumentMoniker": "EDCF_MVC\\Views\\Shared\\Effect.cshtml",
+              "ToolTip": "C:\\Users\\kapyi\\source\\repos\\EDCF_MVC\\EDCF_MVC\\Views\\Shared\\Effect.cshtml",
+              "RelativeToolTip": "EDCF_MVC\\Views\\Shared\\Effect.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T17:09:55.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\kapyi\\source\\repos\\EDCF_MVC\\EDCF_MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EDCF_MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\kapyi\\source\\repos\\EDCF_MVC\\EDCF_MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EDCF_MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAYwDYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T04:45:14.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kapyi\\source\\repos\\EDCF_MVC\\EDCF_MVC\\Program.cs",
+              "RelativeDocumentMoniker": "EDCF_MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\kapyi\\source\\repos\\EDCF_MVC\\EDCF_MVC\\Program.cs",
+              "RelativeToolTip": "EDCF_MVC\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T04:39:56.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\kapyi\\source\\repos\\EDCF_MVC\\EDCF_MVC\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "EDCF_MVC\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\kapyi\\source\\repos\\EDCF_MVC\\EDCF_MVC\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "EDCF_MVC\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T23:23:35.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Course.cshtml",
+              "DocumentMoniker": "C:\\Users\\kapyi\\source\\repos\\EDCF_MVC\\EDCF_MVC\\Views\\Home\\Course.cshtml",
+              "RelativeDocumentMoniker": "EDCF_MVC\\Views\\Home\\Course.cshtml",
+              "ToolTip": "C:\\Users\\kapyi\\source\\repos\\EDCF_MVC\\EDCF_MVC\\Views\\Home\\Course.cshtml",
+              "RelativeToolTip": "EDCF_MVC\\Views\\Home\\Course.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T11:48:05.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\kapyi\\source\\repos\\EDCF_MVC\\EDCF_MVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "EDCF_MVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\kapyi\\source\\repos\\EDCF_MVC\\EDCF_MVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "EDCF_MVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T23:34:32.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kapyi\\source\\repos\\EDCF_MVC\\EDCF_MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EDCF_MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kapyi\\source\\repos\\EDCF_MVC\\EDCF_MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EDCF_MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADIAAAAAAAAAAAAqwEsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T04:49:25.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BCA.cshtml",
+              "DocumentMoniker": "C:\\Users\\kapyi\\source\\repos\\EDCF_MVC\\EDCF_MVC\\Views\\Home\\BCA.cshtml",
+              "RelativeDocumentMoniker": "EDCF_MVC\\Views\\Home\\BCA.cshtml",
+              "ToolTip": "C:\\Users\\kapyi\\source\\repos\\EDCF_MVC\\EDCF_MVC\\Views\\Home\\BCA.cshtml",
+              "RelativeToolTip": "EDCF_MVC\\Views\\Home\\BCA.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T11:33:35.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MBA.cshtml",
+              "DocumentMoniker": "C:\\Users\\kapyi\\source\\repos\\EDCF_MVC\\EDCF_MVC\\Views\\Home\\MBA.cshtml",
+              "RelativeDocumentMoniker": "EDCF_MVC\\Views\\Home\\MBA.cshtml",
+              "ToolTip": "C:\\Users\\kapyi\\source\\repos\\EDCF_MVC\\EDCF_MVC\\Views\\Home\\MBA.cshtml",
+              "RelativeToolTip": "EDCF_MVC\\Views\\Home\\MBA.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T11:37:15.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MCA.cshtml",
+              "DocumentMoniker": "C:\\Users\\kapyi\\source\\repos\\EDCF_MVC\\EDCF_MVC\\Views\\Home\\MCA.cshtml",
+              "RelativeDocumentMoniker": "EDCF_MVC\\Views\\Home\\MCA.cshtml",
+              "ToolTip": "C:\\Users\\kapyi\\source\\repos\\EDCF_MVC\\EDCF_MVC\\Views\\Home\\MCA.cshtml",
+              "RelativeToolTip": "EDCF_MVC\\Views\\Home\\MCA.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T11:34:51.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\kapyi\\source\\repos\\EDCF_MVC\\EDCF_MVC\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "EDCF_MVC\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\kapyi\\source\\repos\\EDCF_MVC\\EDCF_MVC\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "EDCF_MVC\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T00:03:57.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StundentDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kapyi\\source\\repos\\EDCF_MVC\\EDCF_MVC\\Models\\StundentDbContext.cs",
+              "RelativeDocumentMoniker": "EDCF_MVC\\Models\\StundentDbContext.cs",
+              "ToolTip": "C:\\Users\\kapyi\\source\\repos\\EDCF_MVC\\EDCF_MVC\\Models\\StundentDbContext.cs",
+              "RelativeToolTip": "EDCF_MVC\\Models\\StundentDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T04:36:38.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\kapyi\\source\\repos\\EDCF_MVC\\EDCF_MVC\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "EDCF_MVC\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\kapyi\\source\\repos\\EDCF_MVC\\EDCF_MVC\\Models\\Student.cs",
+              "RelativeToolTip": "EDCF_MVC\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T04:35:46.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\kapyi\\source\\repos\\EDCF_MVC\\EDCF_MVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "EDCF_MVC\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\kapyi\\source\\repos\\EDCF_MVC\\EDCF_MVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "EDCF_MVC\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T10:16:45.101Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

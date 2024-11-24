@@ -1,0 +1,75 @@
+﻿@{
+    ViewData["Title"] = "Contact Us";
+    Layout = "~/Views/Shared/Effect.cshtml";
+}
+
+@if (ViewBag.Error != null)
+{
+    <div class="alert alert-danger">@ViewBag.Error</div>
+}
+
+@if (ViewBag.Success != null)
+{
+    <div class="alert alert-success">@ViewBag.Success</div>
+}
+
+<!-- Contact Form -->
+<form asp-action="Contact" method="post" class="p-4 rounded shadow-lg bg-light" style="max-width: 600px; margin: auto;">
+    <h2 class="text-center mb-4 text-primary">Contact Us</h2>
+    <div class="form-group mb-3">
+        <label for="senderEmail" class="form-label">Your Email</label>
+        <input type="email" id="senderEmail" name="senderEmail" class="form-control" placeholder="Enter your email" required />
+    </div>
+
+    <div class="form-group mb-3">
+        <label for="name" class="form-label">Your Name</label>
+        <input type="text" id="name" name="name" class="form-control" placeholder="Enter your name" required />
+    </div>
+
+    <div class="form-group mb-3">
+        <label for="subject" class="form-label">Subject</label>
+        <input type="text" id="subject" name="subject" class="form-control" placeholder="Enter subject" required />
+    </div>
+
+    <div class="form-group mb-4">
+        <label for="message" class="form-label">Message</label>
+        <textarea id="message" name="message" class="form-control" rows="5" placeholder="Write your message here..." required></textarea>
+    </div>
+
+    <button type="submit" class="btn btn-primary w-100 py-2">Submit</button>
+</form>
+
+<!-- Background Effect -->
+<style>
+    body {
+        background: linear-gradient(to bottom right, #f0f8ff, #e6f7ff);
+        background-attachment: fixed;
+    }
+
+    .social-media-icons {
+        margin-top: 20px;
+    }
+
+    .social-icon {
+        font-size: 30px;
+        margin: 0 15px;
+        color: #007bff;
+        text-decoration: none;
+    }
+
+        .social-icon:hover {
+            color: #0056b3;
+        }
+
+    footer {
+        background-color: #333;
+        color: white;
+    }
+
+    .alert {
+        margin-top: 20px;
+    }
+</style>
+
+<!-- Add FontAwesome Icons CDN -->
+<script src="https://kit.fontawesome.com/a076d05399.js"></script>

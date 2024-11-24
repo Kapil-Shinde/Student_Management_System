@@ -1,0 +1,21 @@
+﻿@model EDCF_MVC.Models.Student
+
+@{
+    ViewData["Title"] = "Create Student";
+    Layout = "~/Views/Shared/Effect.cshtml";
+}
+
+<h2>Create Student</h2>
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Age"></label>
+        <input asp-for="Age" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+<h2>@ViewBag.Data</h2>

@@ -1,0 +1,148 @@
+﻿
+@{
+    ViewData["Title"] = "Course";
+    Layout = "~/Views/Shared/Effect.cshtml";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Course Information</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            display: flex;
+            justify-content: space-around;
+            padding: 2rem;
+        }
+
+        .course-card {
+            background-color: white;
+            padding: 2rem;
+            width: 250px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            border-radius: 8px;
+        }
+
+            .course-card h2 {
+                color: #34495e;
+            }
+
+            .course-card p {
+                color: #7f8c8d;
+                font-size: 14px;
+                margin-bottom: 1.5rem;
+            }
+
+        .btn {
+            background-color: #3498db;
+            color: white;
+            padding: 0.5rem 1rem;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            text-align: center;
+        }
+
+            .btn:hover {
+                background-color: #2980b9;
+            }
+
+        
+
+        #cart {
+            margin-top: 20px;
+            padding: 10px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Available Courses</h1>
+    </header>
+    <div class="container">
+        <!-- BCA Course Block -->
+        <div class="course-card">
+            <h2>BCA (Bachelor of Computer Applications)</h2>
+            <p>A three-year undergraduate program focusing on computer science and information technology.</p>
+            <button class="btn" onclick="addToCart('BCA')">Add to Cart</button>
+        </div>
+
+        <!-- MCA Course Block -->
+        <div class="course-card">
+            <h2>MCA (Master of Computer Applications)</h2>
+            <p>A two-year or three-year postgraduate program focused on advanced computer science and applications.</p>
+            <button class="btn" onclick="addToCart('MCA')">Add to Cart</button>
+        </div>
+
+        <!-- MBA Course Block -->
+        <div class="course-card">
+            <h2>MBA (Master of Business Administration)</h2>
+            <p>A two-year postgraduate program designed to develop leadership and business management skills.</p>
+            <button class="btn" onclick="addToCart('MBA')">Add to Cart</button>
+        </div>
+    </div>
+
+    <button class="btn" onclick="viewCart()">View Cart</button>
+
+    <div id="cart">
+        <h2>Your Cart</h2>
+        <ul id="cartItems">
+            <!-- Cart items will be displayed here -->
+        </ul>
+        <button class="btn" onclick="clearCart()">Clear Cart</button>
+    </div>
+
+    
+    <script>
+        // Cart array to store added items
+        let cart = [];
+
+        // Function to add items to the cart
+        function addToCart(course) {
+            cart.push(course);
+            alert(course + " added to the cart!");
+        }
+
+        // Function to view cart and display added items
+        function viewCart() {
+            const cartDiv = document.getElementById('cart');
+            const cartItemsList = document.getElementById('cartItems');
+            cartItemsList.innerHTML = ""; // Clear any previous items
+
+            if (cart.length === 0) {
+                cartItemsList.innerHTML = "<li>Your cart is empty.</li>";
+            } else {
+                cart.forEach(function(item) {
+                    const listItem = document.createElement('li');
+                    listItem.textContent = item;
+                    cartItemsList.appendChild(listItem);
+                });
+            }
+
+            // Show cart div
+            cartDiv.style.display = 'block';
+        }
+
+        // Function to clear the cart
+        function clearCart() {
+            cart = [];
+            document.getElementById('cartItems').innerHTML = "<li>Your cart is empty.</li>";
+        }
+    </script>
+</body>
+</html>
+
+
